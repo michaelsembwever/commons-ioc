@@ -77,7 +77,7 @@
         </mailingList>
         <mailingList>
             <name>Commit List</name>
-            <archive>http://sesat.no/pipermail/commons-commits/</archive>
+            <archive>https://sourceforge.net/mailarchive/forum.php?forum_name=commons-ioc-commits</archive>
         </mailingList>
     </mailingLists>
 
