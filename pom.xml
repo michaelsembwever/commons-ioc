@@ -46,9 +46,9 @@
     <url>http://commons-ioc.sourceforge.net</url>
 
     <scm>
-        <connection>scm:svn:http://sesat.no/svn/sesat-commons/commons-ioc/trunk</connection>
-        <developerConnection>scm:svn:http://sesat.no/svn/sesat-commons/commons-ioc/trunk</developerConnection>
-        <url>http://sesat.no/svn/sesat-commons/commons-ioc/trunk</url>
+        <connection>scm:svn:https://commons-ioc.svn.sourceforge.net/svnroot/commons-ioc/trunk</connection>
+        <developerConnection>scm:svn:https://commons-ioc.svn.sourceforge.net/svnroot/commons-ioc/trunk</developerConnection>
+        <url>http://commons-ioc.svn.sourceforge.net/viewvc/commons-ioc/trunk/</url>
     </scm>
 
     <licenses>
